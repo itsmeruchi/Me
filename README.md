@@ -1,4 +1,4 @@
-                                                      Hi 👋, I'm Ruchi Jain
+                                                    Hi 👋, I'm Ruchi Jain
 I'm a passionate Computer Science student from Banasthali Vidyapith, aspiring to become a skilled software engineer. With a strong foundation in algorithmic problem-solving and development, I bring dedication and curiosity to every project.
 
 
@@ -15,9 +15,7 @@ I'm a passionate Computer Science student from Banasthali Vidyapith, aspiring to
 📫 Reach me at 27ruchijain@gmail.com
 
 ⚡ Fun fact: I believe in constant growth and one day aim to make a significant impact in the tech world!
-Connect with me:
 
-Language and Tools:
 
 
 
